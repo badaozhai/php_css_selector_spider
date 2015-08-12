@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ThinkPHP" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/ThinkPHP" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ThinkPHP" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,1324 @@
+[ 2015-08-08T14:01:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-08-08T14:02:07+08:00 ] 127.0.0.1 /home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-08T14:25:41+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-08T15:03:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2015-08-08T15:04:15+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-08T15:05:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-08-08T16:31:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-08T16:33:41+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-08-08T16:34:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] preg_match_all(): Empty regular expression C:\wwwroot\spider\Application\Home\Controller\IndexController.class.php 第 13 行.
+
+[ 2015-08-08T16:35:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-08T16:35:41+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-08T16:36:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-08T16:36:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-08T16:36:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] preg_match_all(): Unknown modifier 'l' C:\wwwroot\spider\Application\Home\Controller\IndexController.class.php 第 12 行.
+
+[ 2015-08-08T16:39:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] preg_match_all(): Unknown modifier 'l' C:\wwwroot\spider\Application\Home\Controller\IndexController.class.php 第 12 行.
+
+[ 2015-08-08T16:39:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-08T16:39:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-08T16:40:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-08T16:40:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-08T16:41:09+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-08T16:42:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] preg_match_all(): Unknown modifier 'l' C:\wwwroot\spider\Application\Home\Controller\IndexController.class.php 第 15 行.
+
+[ 2015-08-08T16:42:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-08T16:59:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0230s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-08T17:02:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: mobile_reg C:\wwwroot\spider\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [2] preg_match(): Empty regular expression C:\wwwroot\spider\Application\Home\Controller\IndexController.class.php 第 17 行.
+
+[ 2015-08-08T17:02:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-08T17:16:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0320s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0040s ]
+NOTIC: [2] preg_match(): Compilation failed: lookbehind assertion is not fixed length at offset 37 C:\wwwroot\spider\Application\Home\Controller\IndexController.class.php 第 20 行.
+
+[ 2015-08-08T17:17:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] preg_match(): Compilation failed: lookbehind assertion is not fixed length at offset 39 C:\wwwroot\spider\Application\Home\Controller\IndexController.class.php 第 20 行.
+
+[ 2015-08-08T17:19:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] preg_match(): Compilation failed: lookbehind assertion is not fixed length at offset 38 C:\wwwroot\spider\Application\Home\Controller\IndexController.class.php 第 20 行.
+
+[ 2015-08-08T17:21:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-08T17:21:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-08T17:22:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-08T17:27:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-84414419            ' LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13017288165            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-84148466            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-85594898            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-84147568            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-88810788            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-89671577            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                15274932433            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                18900795587            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-88614478            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13397412588            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-88614478            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13187080878            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13207427588            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-84812288            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13787264750            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-83880886            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                15974209421            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                18975158128            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-82662588            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                18684737743            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18075182321                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084747468                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        13212621195                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15111069535                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18273135700                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15211183918                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15074849622                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15111069535                    ' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18711128258                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84414419                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            18627584026        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            0731-84122188        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            13212621195        ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            15273196812        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            15084883171        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            18974816850        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            15974209421        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15273196812                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-89671577                    ' LIMIT 1   [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-82369908                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84879496                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15616158284                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18075182321                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084747468                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084747468                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084800930                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084800930                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18975138714                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84122188                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        13787264750                    ' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        13212621195                    ' LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-89838718                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-89671577                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84744848                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18508427542                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-82224318                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15974274135                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15616661901                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-88810788                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-88900755                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84147568                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84414419                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15616661901                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15580822998                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18373152278                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        13787264750                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84148466                    ' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15111069535                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18273135700                    ' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-08T17:28:09+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-84414419            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13017288165            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-84148466            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-85594898            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-84147568            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-88810788            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-89671577            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                15274932433            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                18900795587            ' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-88614478            ' LIMIT 1   [ RunTime:0.0240s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13397412588            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-88614478            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13187080878            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13207427588            ' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-84812288            ' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13787264750            ' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-83880886            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                15974209421            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                18975158128            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-82662588            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                18684737743            ' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18075182321                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084747468                    ' LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        13212621195                    ' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15111069535                    ' LIMIT 1   [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18273135700                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15211183918                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15074849622                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15111069535                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18711128258                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84414419                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            18627584026        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            0731-84122188        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            13212621195        ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            15273196812        ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            15084883171        ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            18974816850        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            15974209421        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15273196812                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-89671577                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-82369908                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84879496                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15616158284                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18075182321                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084747468                    ' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084747468                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084800930                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084800930                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18975138714                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84122188                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        13787264750                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        13212621195                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-89838718                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-89671577                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84744848                    ' LIMIT 1   [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18508427542                    ' LIMIT 1   [ RunTime:0.0310s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-82224318                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15974274135                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15616661901                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-88810788                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-88900755                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84147568                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84414419                    ' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15616661901                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15580822998                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18373152278                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        13787264750                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84148466                    ' LIMIT 1   [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15111069535                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18273135700                    ' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-08T17:29:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-84414419            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUWTRNVVZFTnpWR1Fqa3hNakJHTlVKR1FqUTRORGhCUmpaRFJUUkROa1UzUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRFd01UVTJNekk1TlVCaWJqMHRRSE5vYjNkZmRIbHdaVDFpYVdSa2FXNW5RR0prWDNOb2IzYzlkSEoxWlVCaGRIbHdaVDFqYkdsamEwQnBjMTl2ZFhSemFXUmxQVEFpTENKc1lXNWtYM1Z5YkNJNkltaDBkSEE2WEM5Y0wyTnpMbWRoYm1wcExtTnZiVnd2Wm5WM2RWOWthV0Z1WEM4eE1UQXhOVFl6TWprMWVGd3ZJbjA9&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{1:1101563295}}}\">长沙市天天旺<span class=\"f_c_red\">搬家</span>运输有限公司</a>','
+                0731-84414419            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13017288165            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BVWXhNalF4TlRNMVJVSXpPVVExTTBFeVJEUTJRekF5TlVNNU9ESTBOa1F4UUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5T0RjME5qTTFNVEU0UUdKdVBTMUFjMmh2ZDE5MGVYQmxQV0pwWkdScGJtZEFZbVJmYzJodmR6MTBjblZsUUdGMGVYQmxQV05zYVdOclFHbHpYMjkxZEhOcFpHVTlNQ0lzSW14aGJtUmZkWEpzSWpvaWFIUjBjRHBjTDF3dlkzTXVaMkZ1YW1rdVkyOXRYQzltZFhkMVgyUnBZVzVjTHpnM05EWXpOVEV4T0hoY0x5Sjk=&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{2:874635118}}}\">万利<span class=\"f_c_red\">搬家</span>——精品搬迁 专业货运—超优!</a>','
+                13017288165            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-84148466            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BVSTBNa1k0UTBVMU5qSkRRell3UmpBMU1qWXdSalJET0RjeU5ESXpNVFpCUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRBMU5qZzVOekpBWW00OUxVQnphRzkzWDNSNWNHVTlZbWxrWkdsdVowQmlaRjl6YUc5M1BYUnlkV1ZBWVhSNWNHVTlZMnhwWTJ0QWFYTmZiM1YwYzJsa1pUMHdJaXdpYkdGdVpGOTFjbXdpT2lKb2RIUndPbHd2WEM5amN5NW5ZVzVxYVM1amIyMWNMMloxZDNWZlpHbGhibHd2TVRBMU5qZzVOeko0WEM4aWZRPT0=&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{3:10568972}}}\">长沙运邦<span class=\"f_c_red\">搬家</span>运输服务有限公司</a>','
+                0731-84148466            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-85594898            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BVVkJNRUk1UkRBMU5qY3lSRVpCTlRNd1JEQkdOa00zUmpkRk1qWTJRa1ZGUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TXprd09ETXlPVFExUUdKdVBTMUFjMmh2ZDE5MGVYQmxQV0pwWkdScGJtZEFZbVJmYzJodmR6MTBjblZsUUdGMGVYQmxQV05zYVdOclFHbHpYMjkxZEhOcFpHVTlNQ0lzSW14aGJtUmZkWEpzSWpvaWFIUjBjRHBjTDF3dlkzTXVaMkZ1YW1rdVkyOXRYQzltZFhkMVgyUnBZVzVjTHpNNU1EZ3pNamswTlhoY0x5Sjk=&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{4:390832945}}}\">财运来<span class=\"f_c_red\">搬家</span>-24小时为您服务</a>','
+                0731-85594898            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-84147568            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUVTNOamt5TVRjMVFVSTBOVGxGUTBFNU56STJNREU1UXpVelJETkNOelJHUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRNMk1qVTRNemczT1VCaWJqMHRRSE5vYjNkZmRIbHdaVDFpYVdSa2FXNW5RR0prWDNOb2IzYzlkSEoxWlVCaGRIbHdaVDFqYkdsamEwQnBjMTl2ZFhSemFXUmxQVEFpTENKc1lXNWtYM1Z5YkNJNkltaDBkSEE2WEM5Y0wyTnpMbWRoYm1wcExtTnZiVnd2Wm5WM2RWOWthV0Z1WEM4eE16WXlOVGd6T0RjNWVGd3ZJbjA9&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{5:1362583879}}}\">居民<span class=\"f_c_red\">搬家</span>,厂房搬迁,钢琴搬运,空调移机</a>','
+                0731-84147568            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-88810788            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUQTVNVGN5T0RreE1qUTNOa0ZET0RReVFUQXhOelF4UTBSRk5FWTNPVEkwUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TXpZM09ETXlOVE0zUUdKdVBTMUFjMmh2ZDE5MGVYQmxQV0pwWkdScGJtZEFZbVJmYzJodmR6MTBjblZsUUdGMGVYQmxQV05zYVdOclFHbHpYMjkxZEhOcFpHVTlNQ0lzSW14aGJtUmZkWEpzSWpvaWFIUjBjRHBjTDF3dlkzTXVaMkZ1YW1rdVkyOXRYQzltZFhkMVgyUnBZVzVjTHpNMk56Z3pNalV6TjNoY0x5Sjk=&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{6:367832537}}}\">长沙如意<span class=\"f_c_red\">搬家</span>/车大价优 /全市统一调度</a>','
+                0731-88810788            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-89671577            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUazJNRGMyTkRjNE1EQTNRMFJGUXpjMlJqVTBSams0T0RreU0wRkdNRGt3UUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRZek5qRXpOakEwTVVCaWJqMHRRSE5vYjNkZmRIbHdaVDFpYVdSa2FXNW5RR0prWDNOb2IzYzlkSEoxWlVCaGRIbHdaVDFqYkdsamEwQnBjMTl2ZFhSemFXUmxQVEFpTENKc1lXNWtYM1Z5YkNJNkltaDBkSEE2WEM5Y0wyTnpMbWRoYm1wcExtTnZiVnd2Wm5WM2RWOWthV0Z1WEM4eE5qTTJNVE0yTURReGVGd3ZJbjA9&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{7:1636136041}}}\">大小型长短途,货车超低价,全城180起</a>','
+                0731-89671577            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                15274932433            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUTkRSRUZDUVRJNFJVRkVOREU0UmtZeU1qWkZRVEk0TWtRek9UTkdRakZCUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TmpVMk5qTTVOVE0yUUdKdVBTMUFjMmh2ZDE5MGVYQmxQV0pwWkdScGJtZEFZbVJmYzJodmR6MTBjblZsUUdGMGVYQmxQV05zYVdOclFHbHpYMjkxZEhOcFpHVTlNQ0lzSW14aGJtUmZkWEpzSWpvaWFIUjBjRHBjTDF3dlkzTXVaMkZ1YW1rdVkyOXRYQzltZFhkMVgyUnBZVzVjTHpZMU5qWXpPVFV6Tm5oY0x5Sjk=&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{8:656639536}}}\">长沙市满堂红<span class=\"f_c_red\">搬家</span>有限公司</a>','
+                15274932433            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                18900795587            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUQXlPRUUxTUVKRU16WkVNa1UyTWtaQk1URTJORUpETVRBeVF6WXhSRE5HUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5T1RNM05EWXpOakl5UUdKdVBTMUFjMmh2ZDE5MGVYQmxQV0pwWkdScGJtZEFZbVJmYzJodmR6MTBjblZsUUdGMGVYQmxQV05zYVdOclFHbHpYMjkxZEhOcFpHVTlNQ0lzSW14aGJtUmZkWEpzSWpvaWFIUjBjRHBjTDF3dlkzTXVaMkZ1YW1rdVkyOXRYQzltZFhkMVgyUnBZVzVjTHprek56UTJNell5TW5oY0x5Sjk=&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{9:937463622}}}\">顺意<span class=\"f_c_red\">搬家</span>-市政府合作单位，低价<span class=\"f_c_red\">搬家</span>搬厂</a>','
+                18900795587            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-88614478            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BVWkdOVU0xTjBGRk9FRkRNRGt3UmpsRlFqWTFSRGt5TWpRelJVWkJNemN5UUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TnpFeE1UWTJPVE16UUdKdVBTMUFjMmh2ZDE5MGVYQmxQV0pwWkdScGJtZEFZbVJmYzJodmR6MTBjblZsUUdGMGVYQmxQV05zYVdOclFHbHpYMjkxZEhOcFpHVTlNQ0lzSW14aGJtUmZkWEpzSWpvaWFIUjBjRHBjTDF3dlkzTXVaMkZ1YW1rdVkyOXRYQzltZFhkMVgyUnBZVzVjTHpjeE1URTJOamt6TTNoY0x5Sjk=&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{10:711166933}}}\">长沙正规<span class=\"f_c_red\">搬家</span>公司，赶集网中国好商家</a>','
+                0731-88614478            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13397412588            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUVkRRamRFUlRCR01qUkZNVE5ETTBZMU1FVkJNa1ZHTUVSRFFqRkZSRFkyUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TlRNM05qazFNRGc1UUdKdVBTMUFjMmh2ZDE5MGVYQmxQV0pwWkdScGJtZEFZbVJmYzJodmR6MTBjblZsUUdGMGVYQmxQV05zYVdOclFHbHpYMjkxZEhOcFpHVTlNQ0lzSW14aGJtUmZkWEpzSWpvaWFIUjBjRHBjTDF3dlkzTXVaMkZ1YW1rdVkyOXRYQzltZFhkMVgyUnBZVzVjTHpVek56WTVOVEE0T1hoY0x5Sjk=&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{11:537695089}}}\">长沙最好的<span class=\"f_c_red\">搬家</span>公司，价格最便宜-旺旺<span class=\"f_c_red\">搬家</span></a>','
+                13397412588            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-88614478            ' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13187080878            ' LIMIT 1   [ RunTime:0.0060s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUaEdNa1U0TTBZMlFUTXpPVFk0UWtKRU4wWXpRa0kyTmpJMU5VTTFORUUwUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRNNE1qazRNamMyTkVCaWJqMHRRSE5vYjNkZmRIbHdaVDFpYVdSa2FXNW5RR0prWDNOb2IzYzlkSEoxWlVCaGRIbHdaVDFqYkdsamEwQnBjMTl2ZFhSemFXUmxQVEFpTENKc1lXNWtYM1Z5YkNJNkltaDBkSEE2WEM5Y0wyTnpMbWRoYm1wcExtTnZiVnd2Wm5WM2RWOWthV0Z1WEM4eE16Z3lPVGd5TnpZMGVGd3ZJbjA9&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{13:1382982764}}}\">长沙灰太狼中小型<span class=\"f_c_red\">搬家</span> 面包车<span class=\"f_c_red\">搬家</span> 出租</a>','
+                13187080878            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13207427588            ' LIMIT 1   [ RunTime:0.0020s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BURTROamd5TURaQ05qQXpRall4TkVFNE5EZzNNVVZGUmpSQ01EZzFNVFUwUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRJMU9UQTJPVFUyTkVCaWJqMHRRSE5vYjNkZmRIbHdaVDFpYVdSa2FXNW5RR0prWDNOb2IzYzlkSEoxWlVCaGRIbHdaVDFqYkdsamEwQnBjMTl2ZFhSemFXUmxQVEFpTENKc1lXNWtYM1Z5YkNJNkltaDBkSEE2WEM5Y0wyTnpMbWRoYm1wcExtTnZiVnd2Wm5WM2RWOWthV0Z1WEM4eE1qVTVNRFk1TlRZMGVGd3ZJbjA9&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{14:1259069564}}}\">专业家庭，工厂，公司搬运，车多随时</a>','
+                13207427588            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-84812288            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BURkJRVGhCTXpnd05UTkVORGhFTURkQlJqaEJOa1F4UWpaRk5USkZOekV6UUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRBNE5qZ3pNelk0TmtCaWJqMHRRSE5vYjNkZmRIbHdaVDFpYVdSa2FXNW5RR0prWDNOb2IzYzlkSEoxWlVCaGRIbHdaVDFqYkdsamEwQnBjMTl2ZFhSemFXUmxQVEFpTENKc1lXNWtYM1Z5YkNJNkltaDBkSEE2WEM5Y0wyTnpMbWRoYm1wcExtTnZiVnd2Wm5WM2RWOWthV0Z1WEM4eE1EZzJPRE16TmpnMmVGd3ZJbjA9&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{15:1086833686}}}\">长沙千禧<span class=\"f_c_red\">搬家</span>—专业正规—行业标杆</a>','
+                0731-84812288            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                13787264750            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUVkRSRFE0TVVNMFFqZ3lSVE00T0VRek9UZ3lNME5FTURBelJUWTROelZDUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5T0RjNU9UUTNPVEF4UUdKdVBTMUFjMmh2ZDE5MGVYQmxQV0pwWkdScGJtZEFZbVJmYzJodmR6MTBjblZsUUdGMGVYQmxQV05zYVdOclFHbHpYMjkxZEhOcFpHVTlNQ0lzSW14aGJtUmZkWEpzSWpvaWFIUjBjRHBjTDF3dlkzTXVaMkZ1YW1rdVkyOXRYQzltZFhkMVgyUnBZVzVjTHpnM09UazBOemt3TVhoY0x5Sjk=&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{16:879947901}}}\">久发<span class=\"f_c_red\">搬家</span>--退伍兵<span class=\"f_c_red\">搬家</span>公司,专业诚信准时</a>','
+                13787264750            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-83880886            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BURTBSRUZDUkRVMk1EZEdOekF4UWpBek1VTkdOelUxTmtRelFVRXdNVEZHUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRVek9UTTFOVFF3TWtCaWJqMHRRSE5vYjNkZmRIbHdaVDFpYVdSa2FXNW5RR0prWDNOb2IzYzlkSEoxWlVCaGRIbHdaVDFqYkdsamEwQnBjMTl2ZFhSemFXUmxQVEFpTENKc1lXNWtYM1Z5YkNJNkltaDBkSEE2WEM5Y0wyTnpMbWRoYm1wcExtTnZiVnd2Wm5WM2RWOWthV0Z1WEM4eE5UTTVNelUxTkRBeWVGd3ZJbjA9&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{17:1539355402}}}\">长沙<span class=\"f_c_red\">搬家</span>、选长沙福祥<span class=\"f_c_red\">搬家</span>赶集推荐选择商家</a>','
+                0731-83880886            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                15974209421            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BURkZNRU0zTUVORk1UUTNSak5CUVRGRE1FVkVRVGs1TXpkRk9EUkRPVEJDUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRVek5qY3pPVFl6T0VCaWJqMHRRSE5vYjNkZmRIbHdaVDFpYVdSa2FXNW5RR0prWDNOb2IzYzlkSEoxWlVCaGRIbHdaVDFqYkdsamEwQnBjMTl2ZFhSemFXUmxQVEFpTENKc1lXNWtYM1Z5YkNJNkltaDBkSEE2WEM5Y0wyTnpMbWRoYm1wcExtTnZiVnd2Wm5WM2RWOWthV0Z1WEM4eE5UTTJOek01TmpNNGVGd3ZJbjA9&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{18:1536739638}}}\">30元起步，最低价，最放心<span class=\"f_c_red\">搬家</span></a>','
+                15974209421            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                18975158128            ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BVWXdRMEU0TlRsRE5USXdSa0U1UlRZMU0wRTJSamRDUXpWRU5rWTFSVVV5UUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRRM05qRTRNak00TVVCaWJqMHRRSE5vYjNkZmRIbHdaVDFpYVdSa2FXNW5RR0prWDNOb2IzYzlkSEoxWlVCaGRIbHdaVDFqYkdsamEwQnBjMTl2ZFhSemFXUmxQVEFpTENKc1lXNWtYM1Z5YkNJNkltaDBkSEE2WEM5Y0wyTnpMbWRoYm1wcExtTnZiVnd2Wm5WM2RWOWthV0Z1WEM4eE5EYzJNVGd5TXpneGVGd3ZJbjA9&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{19:1476182381}}}\">长沙红双囍<span class=\"f_c_red\">搬家</span>-绿化指挥部合作单位</a>','
+                18975158128            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                0731-82662588            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BVRXlRVGt6T0VSQ016TXlSVUkwUVVSQk5UVTFNVVF5TkRFMU56ZzFPVVpFUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRRMU5USTFNalEyTkVCaWJqMHRRSE5vYjNkZmRIbHdaVDFpYVdSa2FXNW5RR0prWDNOb2IzYzlkSEoxWlVCaGRIbHdaVDFqYkdsamEwQnBjMTl2ZFhSemFXUmxQVEFpTENKc1lXNWtYM1Z5YkNJNkltaDBkSEE2WEM5Y0wyTnpMbWRoYm1wcExtTnZiVnd2Wm5WM2RWOWthV0Z1WEM4eE5EVTFNalV5TkRZMGVGd3ZJbjA9&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{20:1455252464}}}\">5星级<span class=\"f_c_red\">搬家</span>公司 正规可靠 价格透明包满意</a>','
+                0731-82662588            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                18684737743            ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUUkZRME14TmpjNU5qQTNOekZGUWpsQk1USTBRVUU0TUVFek5ERXdSamhDUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRJeE9ERTFNVEEwTjBCaWJqMHRRSE5vYjNkZmRIbHdaVDFpYVdSa2FXNW5RR0prWDNOb2IzYzlkSEoxWlVCaGRIbHdaVDFqYkdsamEwQnBjMTl2ZFhSemFXUmxQVEFpTENKc1lXNWtYM1Z5YkNJNkltaDBkSEE2WEM5Y0wyTnpMbWRoYm1wcExtTnZiVnd2Wm5WM2RWOWthV0Z1WEM4eE1qRTRNVFV4TURRM2VGd3ZJbjA9&v=1\"  gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={19:{1:{21:1218151047}}}\">长沙开门鸿<span class=\"f_c_red\">搬家</span>-有限公司</a>','
+                18684737743            ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18075182321                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/842650805x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={1:{1:{1:842650805}},11:{7:{1:842650805}}}\">30元起步,便宜面包车<span class=\"f_c_red\">搬家</span>公司,不乱要价</a>','
+                        18075182321                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084747468                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1052900527x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={1:{1:{2:1052900527}},11:{7:{2:1052900527}}}\">《大金杯货车》《面包车》<span class=\"f_c_red\">搬家</span></a>','
+                        15084747468                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        13212621195                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1454001476x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={1:{1:{3:1454001476}},11:{7:{3:1454001476}}}\">33元起步，10分钟响应，尽在同城到家</a>','
+                        13212621195                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15111069535                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1351473780x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={1:{1:{4:1351473780}},11:{7:{4:1351473780}}}\">服务全长沙 随叫随到 本人免费协同搬运</a>','
+                        15111069535                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18273135700                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1142713207x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={1:{1:{5:1142713207}},11:{7:{5:1142713207}}}\">30元起面包车<span class=\"f_c_red\">搬家</span>，本月优惠中</a>','
+                        18273135700                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15211183918                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1448649183x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={1:{1:{6:1448649183}},11:{6:{6:1448649183}}}\">30元起，宏运168面包车<span class=\"f_c_red\">搬家</span> 不乱要价</a>','
+                        15211183918                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15074849622                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1039635934x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={1:{1:{7:1039635934}},11:{6:{7:1039635934}}}\">跑的快<span class=\"f_c_red\">搬家</span></a>','
+                        15074849622                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15111069535                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18711128258                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1658790751x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={1:{1:{9:1658790751}},11:{5:{9:1658790751}}}\">货运站提货接货送货，<span class=\"f_c_red\">搬家</span>送人，长短途运输</a>','
+                        18711128258                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84414419                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1302707957x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={1:{1:{10:1302707957}},11:{5:{10:1302707957}}}\">天天旺<span class=\"f_c_red\">搬家</span>，专业的<span class=\"f_c_red\">搬家</span>公司</a>','
+                        0731-84414419                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            18627584026        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUa3lPVFl5TURkR09VRXpSamc0TkRVNE5URkVNRVJHUWtaR1FqVXdSREl6UUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRjNE1USTBNVE0zTkVCaWJqMHhPVEEzTmpBNE5GODRYM0JuUUhOb2IzZGZkSGx3WlQxa2FYSmxZM1JwYjI1QVltUmZjMmh2ZHoxMGNuVmxRR0YwZVhCbFBXTnNhV05yUUdselgyOTFkSE5wWkdVOU1FQjNaV0pwYlY5cFpEMHdJaXdpYkdGdVpGOTFjbXdpT2lKb2RIUndPbHd2WEM5amN5NW5ZVzVxYVM1amIyMWNMMloxZDNWZlpHbGhibHd2TVRjNE1USTBNVE0zTkhoY0x5Sjk=&v=1\" sdalog=\"/@suid=9296207F9A3F8845851D0DFBFFB50D23@ctype=title@puid=1781241374@bn=19076084_8_pg@show_type=direction@bd_show=true@atype=click@is_outside=0@webim_id=0\">白夜行面包车小型<span class=\"f_c_red\">搬家</span>团队</a>','
+            18627584026        ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            0731-84122188        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BVRTNPREpCUWpFMk16YzNRemxHUXpNMU1ESXpPRGt6TmtFMU1EazNRVU0wUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRBMk5EWXlOVEV6TTBCaWJqMHhPVEEzTmpBNE5GODRYM0JuUUhOb2IzZGZkSGx3WlQxa2FYSmxZM1JwYjI1QVltUmZjMmh2ZHoxMGNuVmxRR0YwZVhCbFBXTnNhV05yUUdselgyOTFkSE5wWkdVOU1FQjNaV0pwYlY5cFpEMHdJaXdpYkdGdVpGOTFjbXdpT2lKb2RIUndPbHd2WEM5amN5NW5ZVzVxYVM1amIyMWNMMloxZDNWZlpHbGhibHd2TVRBMk5EWXlOVEV6TTNoY0x5Sjk=&v=1\" sdalog=\"/@suid=A782AB16377C9FC350238936A5097AC4@ctype=title@puid=1064625133@bn=19076084_8_pg@show_type=direction@bd_show=true@atype=click@is_outside=0@webim_id=0\">年年顺<span class=\"f_c_red\">搬家</span></a>','
+            0731-84122188        ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            13212621195        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUWXpNRUpFUXpoQk5UTkRRVUUzUVRCQk0wUkZRVGN3UXpreU16VTBOVGt5UUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRRMU5EQXdNVFEzTmtCaWJqMHhPVEEzTmpBNE5GODRYM0JuUUhOb2IzZGZkSGx3WlQxa2FYSmxZM1JwYjI1QVltUmZjMmh2ZHoxMGNuVmxRR0YwZVhCbFBXTnNhV05yUUdselgyOTFkSE5wWkdVOU1FQjNaV0pwYlY5cFpEMHdJaXdpYkdGdVpGOTFjbXdpT2lKb2RIUndPbHd2WEM5amN5NW5ZVzVxYVM1amIyMWNMMloxZDNWZlpHbGhibHd2TVRRMU5EQXdNVFEzTm5oY0x5Sjk=&v=1\" sdalog=\"/@suid=630BDC8A53CAA7A0A3DEA70C92354592@ctype=title@puid=1454001476@bn=19076084_8_pg@show_type=direction@bd_show=true@atype=click@is_outside=0@webim_id=0\">33元起步，10分钟响应，尽在同城到家</a>','
+            13212621195        ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            15273196812        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUWkNOamRCUlRaRlF6RkJSakF3T1VZM01UUTFOalJHT1VFMk5FRkZSRVE1UUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRJek56VTBNekV6TWtCaWJqMHhPVEEzTmpBNE5GODRYM0JuUUhOb2IzZGZkSGx3WlQxa2FYSmxZM1JwYjI1QVltUmZjMmh2ZHoxMGNuVmxRR0YwZVhCbFBXTnNhV05yUUdselgyOTFkSE5wWkdVOU1FQjNaV0pwYlY5cFpEMHdJaXdpYkdGdVpGOTFjbXdpT2lKb2RIUndPbHd2WEM5amN5NW5ZVzVxYVM1amIyMWNMMloxZDNWZlpHbGhibHd2TVRJek56VTBNekV6TW5oY0x5Sjk=&v=1\" sdalog=\"/@suid=6B67AE6EC1AF009F714564F9A64AEDD9@ctype=title@puid=1237543132@bn=19076084_8_pg@show_type=direction@bd_show=true@atype=click@is_outside=0@webim_id=0\">30元起面包车<span class=\"f_c_red\">搬家</span>,退伍军人周师傅更靠谱</a>','
+            15273196812        ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            15084883171        ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUTTNSVEJCUVRrNU5UZzFPVVE1UlVaRVJrWTBRelU1TkRVMU1UTXlNalEwUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRRMk1qUTRNVGczTTBCaWJqMHhPVEEzTmpBNE5GODRYM0JuUUhOb2IzZGZkSGx3WlQxa2FYSmxZM1JwYjI1QVltUmZjMmh2ZHoxMGNuVmxRR0YwZVhCbFBXTnNhV05yUUdselgyOTFkSE5wWkdVOU1FQjNaV0pwYlY5cFpEMHdJaXdpYkdGdVpGOTFjbXdpT2lKb2RIUndPbHd2WEM5amN5NW5ZVzVxYVM1amIyMWNMMloxZDNWZlpHbGhibHd2TVRRMk1qUTRNVGczTTNoY0x5Sjk=&v=1\" sdalog=\"/@suid=37E0AA995859D9EFDFF4C59455132244@ctype=title@puid=1462481873@bn=19076084_8_pg@show_type=direction@bd_show=true@atype=click@is_outside=0@webim_id=0\">金杯面的<span class=\"f_c_red\">搬家</span>货运,全市最低价，欢迎致电！</a>','
+            15084883171        ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            18974816850        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUWTJSalV5TkRjMk1qZ3hNVFE0TjBaRE4wUTBSVUpHUmtNME56ZEZNMFkzUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRZek1qRTVNREkwTVVCaWJqMHhPVEEzTmpBNE5GODRYM0JuUUhOb2IzZGZkSGx3WlQxa2FYSmxZM1JwYjI1QVltUmZjMmh2ZHoxMGNuVmxRR0YwZVhCbFBXTnNhV05yUUdselgyOTFkSE5wWkdVOU1FQjNaV0pwYlY5cFpEMHdJaXdpYkdGdVpGOTFjbXdpT2lKb2RIUndPbHd2WEM5amN5NW5ZVzVxYVM1amIyMWNMMloxZDNWZlpHbGhibHd2TVRZek1qRTVNREkwTVhoY0x5Sjk=&v=1\" sdalog=\"/@suid=66F524762811487FC7D4EBFFC477E3F7@ctype=title@puid=1632190241@bn=19076084_8_pg@show_type=direction@bd_show=true@atype=click@is_outside=0@webim_id=0\">《姚明》商务车<span class=\"f_c_red\">搬家</span></a>','
+            18974816850        ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+            15974209421        ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"http://click.ganji.com/click.php?url=ZXlKamJHbGphMTlzYjJjaU9pSmNMMEJ6ZFdsa1BUVTROVVV5TkROQlJqUXlRek5CTTBReFFqRTVNVEJGTURrd01qQXpPRVJGUUdOMGVYQmxQWFJwZEd4bFFIQjFhV1E5TVRZMk5qTTFNekExT0VCaWJqMHhPVEEzTmpBNE5GODRYM0JuUUhOb2IzZGZkSGx3WlQxa2FYSmxZM1JwYjI1QVltUmZjMmh2ZHoxMGNuVmxRR0YwZVhCbFBXTnNhV05yUUdselgyOTFkSE5wWkdVOU1FQjNaV0pwYlY5cFpEMHdJaXdpYkdGdVpGOTFjbXdpT2lKb2RIUndPbHd2WEM5amN5NW5ZVzVxYVM1amIyMWNMMloxZDNWZlpHbGhibHd2TVRZMk5qTTFNekExT0hoY0x5Sjk=&v=1\" sdalog=\"/@suid=585E243AF42C3A3D1B1910E0902038DE@ctype=title@puid=1666353058@bn=19076084_8_pg@show_type=direction@bd_show=true@atype=click@is_outside=0@webim_id=0\">30元 起步专业<span class=\"f_c_red\">搬家</span>公司 低价放心<span class=\"f_c_red\">搬家</span>！</a>','
+            15974209421        ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15273196812                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1237543132x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{1:1237543132}},11:{7:{18:1237543132}}}\">30元起面包车<span class=\"f_c_red\">搬家</span>,退伍军人周师傅更靠谱</a>','
+                        15273196812                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-89671577                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1636136041x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{2:1636136041}},11:{7:{19:1636136041}}}\">大小型长短途,货车超低价,全城180起</a>','
+                        0731-89671577                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-82369908                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/820367251x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{3:820367251}},11:{5:{20:820367251}}}\">老牌<span class=\"f_c_red\">搬家</span>服务真心真意.让您更放心.更省心</a>','
+                        0731-82369908                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84879496                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/819210340x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{4:819210340}},11:{5:{21:819210340}}}\">专业工厂仓库、公司、居民搬迁.全市最低价</a>','
+                        0731-84879496                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15616158284                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/638513241x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{5:638513241}},11:{7:{22:638513241}}}\">30元起步，首选长沙最低价面包车<span class=\"f_c_red\">搬家</span></a>','
+                        15616158284                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18075182321                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084747468                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084747468                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084800930                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1103372477x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{9:1103372477}},11:{6:{26:1103372477}}}\">30元起步，加长加大面包车<span class=\"f_c_red\">搬家</span></a>','
+                        15084800930                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15084800930                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18975138714                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1036405692x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{11:1036405692}},11:{7:{28:1036405692}}}\">钱师傅<span class=\"f_c_red\">搬家</span> 专业到家 是您<span class=\"f_c_red\">搬家</span>的好选</a>','
+                        18975138714                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84122188                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1064625133x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{12:1064625133}},11:{7:{29:1064625133}}}\">年年顺<span class=\"f_c_red\">搬家</span></a>','
+                        0731-84122188                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        13787264750                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1410212729x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{13:1410212729}},11:{7:{30:1410212729}}}\">久发<span class=\"f_c_red\">搬家</span>--退伍兵<span class=\"f_c_red\">搬家</span>公司,专业诚信准时</a>','
+                        13787264750                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        13212621195                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-89838718                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1227088271x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{15:1227088271}},11:{7:{32:1227088271}}}\">长沙兴盛<span class=\"f_c_red\">搬家</span>运输服务有限公司</a>','
+                        0731-89838718                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-89671577                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84744848                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1310204680x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{17:1310204680}},11:{7:{34:1310204680}}}\"><span class=\"f_c_red\">搬家</span>,搬设备,搬钢琴,拉货 天天都优惠</a>','
+                        0731-84744848                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18508427542                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1172090712x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{18:1172090712}},11:{7:{35:1172090712}}}\">最优服务，最实惠的短途拉货<span class=\"f_c_red\">搬家</span>的居民<span class=\"f_c_red\">搬家</span></a>','
+                        18508427542                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-82224318                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/791157311x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{19:791157311}},11:{7:{36:791157311}}}\">中国台湾连锁<span class=\"f_c_red\">搬家</span>行业领导品牌</a>','
+                        0731-82224318                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15974274135                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/959709158x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{20:959709158}},11:{7:{37:959709158}}}\">永发<span class=\"f_c_red\">搬家</span>-长沙最优惠的<span class=\"f_c_red\">搬家</span>公司</a>','
+                        15974274135                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15616661901                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1478500294x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{21:1478500294}},11:{7:{38:1478500294}}}\">全新五菱荣光加长面包车<span class=\"f_c_red\">搬家</span>拉货出租</a>','
+                        15616661901                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-88810788                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/367832537x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{22:367832537}},11:{7:{39:367832537}}}\">长沙如意<span class=\"f_c_red\">搬家</span>/车大价优 /全市统一调度</a>','
+                        0731-88810788                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-88900755                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/952732958x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{23:952732958}},11:{7:{40:952732958}}}\">郝师傅<span class=\"f_c_red\">搬家</span>货运</a>','
+                        0731-88900755                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84147568                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1362583879x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{24:1362583879}},11:{7:{41:1362583879}}}\">居民<span class=\"f_c_red\">搬家</span>,厂房搬迁,钢琴搬运,空调移机</a>','
+                        0731-84147568                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84414419                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15616661901                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15580822998                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1035997150x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{27:1035997150}},11:{7:{44:1035997150}}}\">鸿达专业<span class=\"f_c_red\">搬家</span>、放心托付 重信誉、讲效率</a>','
+                        15580822998                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18373152278                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/1313400448x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{28:1313400448}},11:{7:{45:1313400448}}}\">长沙友爱<span class=\"f_c_red\">搬家</span></a>','
+                        18373152278                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        13787264750                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        0731-84148466                    ' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('<a class=\"f14 list-info-title\" target=\"_blank\" href=\"/fuwu_dian/10568972x/\" gjalog=\"/site_tuiguang/trace@atype=show|click@business=true@gjaddata={7:{1:{30:10568972}},11:{7:{47:10568972}}}\">长沙运邦<span class=\"f_c_red\">搬家</span>运输服务有限公司</a>','
+                        0731-84148466                    ','http://cs.ganji.com/banjia/','1439026153') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        15111069535                    ' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '
+                        18273135700                    ' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-08T17:36:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0020s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = null LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES (NULL,NULL,'http://cs.ganji.com/banjia/','1439026582') [ RunTime:0.0000s ]
+
+[ 2015-08-08T17:37:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84414419' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙市天天旺搬家运输有限公司','0731-84414419','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13017288165' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('万利搬家——精品搬迁 专业货运—超优!','13017288165','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84148466' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙运邦搬家运输服务有限公司','0731-84148466','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-85594898' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('财运来搬家-24小时为您服务','0731-85594898','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84147568' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('居民搬家,厂房搬迁,钢琴搬运,空调移机','0731-84147568','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-88810788' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙如意搬家/车大价优 /全市统一调度','0731-88810788','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-89671577' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('大小型长短途,货车超低价,全城180起','0731-89671577','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15274932433' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙市满堂红搬家有限公司','15274932433','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18900795587' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('顺意搬家-市政府合作单位，低价搬家搬厂','18900795587','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-88614478' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙正规搬家公司，赶集网中国好商家','0731-88614478','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13397412588' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙最好的搬家公司，价格最便宜-旺旺搬家','13397412588','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-88614478' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13187080878' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙灰太狼中小型搬家 面包车搬家 出租','13187080878','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13207427588' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('专业家庭，工厂，公司搬运，车多随时','13207427588','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84812288' LIMIT 1   [ RunTime:0.0020s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙千禧搬家—专业正规—行业标杆','0731-84812288','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13787264750' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('久发搬家--退伍兵搬家公司,专业诚信准时','13787264750','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-83880886' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙搬家、选长沙福祥搬家赶集推荐选择商家','0731-83880886','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15974209421' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起步，最低价，最放心搬家','15974209421','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18975158128' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙红双囍搬家-绿化指挥部合作单位','18975158128','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-82662588' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('5星级搬家公司 正规可靠 价格透明包满意','0731-82662588','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18684737743' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙开门鸿搬家-有限公司','18684737743','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18075182321' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起步,便宜面包车搬家公司,不乱要价','18075182321','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15084747468' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('《大金杯货车》《面包车》搬家','15084747468','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13212621195' LIMIT 1   [ RunTime:0.0020s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('33元起步，10分钟响应，尽在同城到家','13212621195','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15111069535' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('服务全长沙 随叫随到 本人免费协同搬运','15111069535','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18273135700' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起面包车搬家，本月优惠中','18273135700','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15211183918' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起，宏运168面包车搬家 不乱要价','15211183918','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15074849622' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('跑的快搬家','15074849622','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15111069535' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18711128258' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('货运站提货接货送货，搬家送人，长短途运输','18711128258','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84414419' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18627584026' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('白夜行面包车小型搬家团队','18627584026','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84122188' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('年年顺搬家','0731-84122188','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13212621195' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15273196812' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起面包车搬家,退伍军人周师傅更靠谱','15273196812','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15084883171' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('金杯面的搬家货运,全市最低价，欢迎致电！','15084883171','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18974816850' LIMIT 1   [ RunTime:0.0020s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('《姚明》商务车搬家','18974816850','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15974209421' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18373152278' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙友爱搬家','18373152278','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18373152278' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15273196812' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-89671577' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-82369908' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('老牌搬家服务真心真意.让您更放心.更省心','0731-82369908','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84879496' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('专业工厂仓库、公司、居民搬迁.全市最低价','0731-84879496','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15616158284' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起步，首选长沙最低价面包车搬家','15616158284','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18075182321' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15084747468' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15084747468' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15084800930' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起步，加长加大面包车搬家','15084800930','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15084800930' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18975138714' LIMIT 1   [ RunTime:0.0070s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('钱师傅搬家 专业到家 是您搬家的好选','18975138714','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84122188' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13787264750' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13212621195' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-89838718' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙兴盛搬家运输服务有限公司','0731-89838718','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-89671577' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84744848' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('搬家,搬设备,搬钢琴,拉货 天天都优惠','0731-84744848','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18508427542' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('最优服务，最实惠的短途拉货搬家的居民搬家','18508427542','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-82224318' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('中国台湾连锁搬家行业领导品牌','0731-82224318','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15974274135' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('永发搬家-长沙最优惠的搬家公司','15974274135','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15616661901' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('全新五菱荣光加长面包车搬家拉货出租','15616661901','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-88810788' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-88900755' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('郝师傅搬家货运','0731-88900755','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84147568' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84414419' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15616661901' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15580822998' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('鸿达专业搬家、放心托付 重信誉、讲效率','15580822998','http://cs.ganji.com/banjia/','1439026630') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13787264750' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84148466' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15111069535' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-08T17:43:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `reg` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `reg` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84414419' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙市天天旺搬家运输有限公司','0731-84414419','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13017288165' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('万利搬家——精品搬迁 专业货运—超优!','13017288165','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84148466' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙运邦搬家运输服务有限公司','0731-84148466','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-85594898' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('财运来搬家-24小时为您服务','0731-85594898','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84147568' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('居民搬家,厂房搬迁,钢琴搬运,空调移机','0731-84147568','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-88810788' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙如意搬家/车大价优 /全市统一调度','0731-88810788','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-89671577' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('大小型长短途,货车超低价,全城180起','0731-89671577','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15274932433' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙市满堂红搬家有限公司','15274932433','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18900795587' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('顺意搬家-市政府合作单位，低价搬家搬厂','18900795587','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-88614478' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙正规搬家公司，赶集网中国好商家','0731-88614478','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13397412588' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙最好的搬家公司，价格最便宜-旺旺搬家','13397412588','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-88614478' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13187080878' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙灰太狼中小型搬家 面包车搬家 出租','13187080878','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13207427588' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('专业家庭，工厂，公司搬运，车多随时','13207427588','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84812288' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙千禧搬家—专业正规—行业标杆','0731-84812288','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13787264750' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('久发搬家--退伍兵搬家公司,专业诚信准时','13787264750','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-83880886' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙搬家、选长沙福祥搬家赶集推荐选择商家','0731-83880886','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15974209421' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起步，最低价，最放心搬家','15974209421','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18975158128' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙红双囍搬家-绿化指挥部合作单位','18975158128','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-82662588' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('5星级搬家公司 正规可靠 价格透明包满意','0731-82662588','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18684737743' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙开门鸿搬家-有限公司','18684737743','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18075182321' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起步,便宜面包车搬家公司,不乱要价','18075182321','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15084747468' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('《大金杯货车》《面包车》搬家','15084747468','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13212621195' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('33元起步，10分钟响应，尽在同城到家','13212621195','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15111069535' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('服务全长沙 随叫随到 本人免费协同搬运','15111069535','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18273135700' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起面包车搬家，本月优惠中','18273135700','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15211183918' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起，宏运168面包车搬家 不乱要价','15211183918','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15074849622' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('跑的快搬家','15074849622','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15111069535' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18711128258' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('货运站提货接货送货，搬家送人，长短途运输','18711128258','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84414419' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18627584026' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('白夜行面包车小型搬家团队','18627584026','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84122188' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('年年顺搬家','0731-84122188','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13212621195' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15273196812' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起面包车搬家,退伍军人周师傅更靠谱','15273196812','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15084883171' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('金杯面的搬家货运,全市最低价，欢迎致电！','15084883171','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18974816850' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('《姚明》商务车搬家','18974816850','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15974209421' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18373152278' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙友爱搬家','18373152278','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18373152278' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15273196812' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-89671577' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-82369908' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('老牌搬家服务真心真意.让您更放心.更省心','0731-82369908','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84879496' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('专业工厂仓库、公司、居民搬迁.全市最低价','0731-84879496','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15616158284' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起步，首选长沙最低价面包车搬家','15616158284','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18075182321' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15084747468' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15084747468' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15084800930' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('30元起步，加长加大面包车搬家','15084800930','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15084800930' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18975138714' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('钱师傅搬家 专业到家 是您搬家的好选','18975138714','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84122188' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13787264750' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13212621195' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-89838718' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('长沙兴盛搬家运输服务有限公司','0731-89838718','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-89671577' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84744848' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('搬家,搬设备,搬钢琴,拉货 天天都优惠','0731-84744848','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '18508427542' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('最优服务，最实惠的短途拉货搬家的居民搬家','18508427542','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-82224318' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('中国台湾连锁搬家行业领导品牌','0731-82224318','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15974274135' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('永发搬家-长沙最优惠的搬家公司','15974274135','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15616661901' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('全新五菱荣光加长面包车搬家拉货出租','15616661901','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-88810788' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-88900755' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('郝师傅搬家货运','0731-88900755','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84147568' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84414419' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15616661901' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15580822998' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`name`,`phone`,`from_url`,`create_time`) VALUES ('鸿达专业搬家、放心托付 重信誉、讲效率','15580822998','http://cs.ganji.com/banjia/','1439027025') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '13787264750' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '0731-84148466' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `phone` = '15111069535' LIMIT 1   [ RunTime:0.0000s ]
+
