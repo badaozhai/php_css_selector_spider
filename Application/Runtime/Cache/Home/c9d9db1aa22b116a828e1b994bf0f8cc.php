@@ -76,38 +76,42 @@
 
         </div>
         <div class="col-xs-10">
+            <form class="form-inline" role="form" method="post">
+                <div class="form-group">
+                    <label for="start">开始编号</label>
+                    <input type="text" class="form-control" id="start" name = "start"
+                           placeholder="开始编号">
+                </div>
+                <div class="form-group">
+                    <label  for="end">结束编号</label>
+                    <input type="text" class="form-control" id="end" name = "end"
+                           placeholder="结束编号">
+                </div>
+
+                <button type="submit" class="btn btn-primary">导出excel</button>
+            </form>
             <table class="table table-bordered">
-                <caption>所有抓取规则列表</caption>
+                <caption>数据列表</caption>
                 <thead>
                 <tr>
                     <th>编号</th>
                     <th>名称</th>
-                    <th>详情</th>
-                    <!--<th>单元格正则</th>-->
-                    <!--<th>名称正则</th>-->
-                    <!--<th>电话正则</th>-->
-                    <th>分页词</th>
-                    <th>最大页数</th>
-                    <th>编辑</th>
+                    <th>电话</th>
                 </tr>
                 </thead>
                 <tbody>
-                <?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><tr>
+                <?php if(is_array($users)): $i = 0; $__LIST__ = $users;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><tr>
                         <td><?php echo ($vo['id']); ?></td>
-                        <td><a href = "<?php echo U('Reg/detail',array('id'=>$vo['id']));?>"><?php echo ($vo['name']); ?></a></td>
-                        <td><?php echo ($vo['info']); ?></td>
-                        <!--<td><textarea style="width: 200px"><?php echo ($vo['unit_reg']); ?></textarea></td>-->
-                        <!--<td><textarea style="width: 200px"><?php echo ($vo['name_reg']); ?></textarea></td>-->
-                        <!--<td><textarea style="width: 200px"><?php echo ($vo['phone_reg']); ?></textarea></td>-->
-                        <td><?php echo ($vo['page_key']); ?></td>
-                        <td><?php echo ($vo['max_page']); ?></td>
-                        <td><a href = "<?php echo U('Reg/update',array('id'=>$vo['id']));?>">修改</a></td>
+                        <td><?php echo ($vo['name']); ?></td>
+                        <td><?php echo ($vo['phone']); ?></td>
                     </tr><?php endforeach; endif; else: echo "" ;endif; ?>
                 </tbody>
             </table>
         </div>
     </div>
-
+    <div class = "row">
+        规则demo图预览区域
+    </div>
 </div>
 </body>
 </html>

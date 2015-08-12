@@ -12,12 +12,12 @@ class IndexController extends Controller {
             $this->firstPage($url,$reg,$referer);
             //其他页
             $this->otherPage($url,$reg);
+        }else{
+            $regs = M('Reg')->select();
+            $this->assign('regs',$regs);
+            $this->display();
         }
-        $regs = M('Reg')->select();
-        $this->assign('regs',$regs);
-        $this->display();
     }
-
 
     /**
      * Description:抓取第一页数据
@@ -56,18 +56,31 @@ class IndexController extends Controller {
      *
      */
     public function excel(){
-        $res = M('User')->select();
-        header("Content-type:application/vnd.ms-excel");
-        header("Content-Disposition:attachment;filename=数据.xls");
-//        输出内容如下：
-        echo   "姓名"."\t";
-        echo   "手机"."\t";
-        echo   "\n";
 
-        foreach($res as $row){
-            echo   $row['name']."\t";
-            echo   $row['phone']."\t";
+        if(IS_POST){
+            $start = I('post.start');
+            $end = I('post.end');
+            $map = array();
+            $map['id'] = array('between',$start.','.$end);
+            $res = M('User')->where($map)->select();
+            header("Content-type:application/vnd.ms-excel");
+            header("Content-Disposition:attachment;filename=数据--".$start."--".$end.".xls");
+            //输出内容如下：
+            echo   "编号"."\t";
+            echo   "姓名"."\t";
+            echo   "手机"."\t";
             echo   "\n";
+
+            foreach($res as $row){
+                echo   $row['id']."\t";
+                echo   $row['name']."\t";
+                echo   $row['phone']."\t";
+                echo   "\n";
+            }
+        }else{
+            $users = M('User')->select();
+            $this->assign('users',$users);
+            $this->display('excel');
         }
 
     }

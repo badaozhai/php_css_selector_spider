@@ -1,10 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title></title>
-</head>
-<body>
 
-</body>
-</html>
+    <ul class="nav nav-tabs nav-stacked" data-spy="affix" data-offset-top="125">
+        <li class = "{:(CONTROLLER_NAME.'/'.ACTION_NAME=='Index/index'?'active':'')}">
+            <a href="{:U('Index/index')}">抓取入口</a>
+        </li>
+        <li class = "{:(CONTROLLER_NAME.'/'.ACTION_NAME=='Reg/index'?'active':'')}">
+            <a href="{:U('Reg/index')}">规则列表</a>
+        </li>
+        <li class = "{:(CONTROLLER_NAME.'/'.ACTION_NAME=='Reg/add'?'active':'')}">
+            <a href="{:U('Reg/add')}">添加规则</a>
+        </li>
+        <li class = "{:(CONTROLLER_NAME.'/'.ACTION_NAME=='Index/excel'?'active':'')}">
+            <a href="{:U('Index/excel')}">导出到excel</a>
+        </li>
+    </ul>
