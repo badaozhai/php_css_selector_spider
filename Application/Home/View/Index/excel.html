@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<include file = "Public:head"/>
+<body>
+<div class="container">
+    <div class="jumbotron">
+        <h1>数据抓取系统</h1>
+    </div>
+    <div class="row">
+        <div class="col-xs-2" id="myScrollspy">
+            <include file="Public:menu"/>
+        </div>
+        <div class="col-xs-10">
+            <form role="form">
+                <div class="form-group">
+                    <label for="url">抓取地址</label>
+                    <input type="text" class="form-control" id="url" name ="url"
+                           placeholder="请输入地址">
+                </div>
+                <div class="form-group">
+                    <label for="reg">选取规则</label>
+                    <select  class="form-control" id = 'reg'>
+                        <option style="width:200px">58餐饮类</option>
+                        <option style="width:200px">赶集招聘类</option>
+                        <option style="width:200px">赶集餐饮类</option>
+                        <option style="width:200px">58搬家类</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-default">提交</button>
+            </form>
+        </div>
+    </div>
+    <div class = "row">
+        规则demo图预览区域
+    </div>
+</div>
+</body>
+</html>
