@@ -1,14 +1,14 @@
-<?php
+ï»¿<?php
 /**
- * Êı×é×ª»¯³Éexcel²¢ÏÂÔØ
+ * æ•°ç»„è½¬åŒ–æˆexcelå¹¶ä¸‹è½½
  * @param $arr
  * @param $excelName
  */
 function array2excel($arr,$excelName){
     header("Content-type:application/vnd.ms-excel");
     header("Content-Disposition:attachment;filename=".$excelName.".xls");
-    echo   "ĞÕÃû"."\t";
-    echo   "ÊÖ»ú"."\t";
+    echo   "å§“å"."\t";
+    echo   "æ‰‹æœº"."\t";
     echo   "\n";
     foreach($arr as $v){
         foreach($v as $row){
@@ -19,7 +19,7 @@ function array2excel($arr,$excelName){
     }
 }
 /**
- * Description:´Óurl»ñÈ¡html
+ * Description:ä»urlè·å–html
  * @param $url
  * @param $referer
  * @return mixed
@@ -30,10 +30,10 @@ function getHtml($url,$referer){
     curl_setopt($curl, CURLOPT_URL, $url);
     curl_setopt($curl, CURLOPT_HEADER, false);
     curl_setopt ($curl,CURLOPT_REFERER,$referer);
-    curl_setopt($curl, CURLOPT_USERAGENT, "Mozilla/4.0 (compatible; MSIE 6.0; SeaPort/1.2; Windows NT 5.1; SV1; InfoPath.2)");  //Ä£Äâä¯ÀÀÆ÷·ÃÎÊ
+    curl_setopt($curl, CURLOPT_USERAGENT, "Mozilla/4.0 (compatible; MSIE 6.0; SeaPort/1.2; Windows NT 5.1; SV1; InfoPath.2)");  //æ¨¡æ‹Ÿæµè§ˆå™¨è®¿é—®
     curl_setopt($curl, CURLOPT_COOKIEJAR, 'cookie.txt');
     curl_setopt($curl, CURLOPT_COOKIEFILE, 'cookie.txt');
-    curl_setopt($curl, CURLOPT_TIMEOUT,60);   //Ö»ĞèÒªÉèÖÃÒ»¸öÃëµÄÊıÁ¿¾Í¿ÉÒÔ
+    curl_setopt($curl, CURLOPT_TIMEOUT,60);   //åªéœ€è¦è®¾ç½®ä¸€ä¸ªç§’çš„æ•°é‡å°±å¯ä»¥
     curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
     curl_setopt($curl, CURLOPT_FOLLOWLOCATION, 0);
     $values = curl_exec($curl);
@@ -42,7 +42,7 @@ function getHtml($url,$referer){
 }
 
 /**
- * ×Ö·û´®¾»»¯¹¦ÄÜ,È¥³ıËùÓĞdebuff
+ * å­—ç¬¦ä¸²å‡€åŒ–åŠŸèƒ½,å»é™¤æ‰€æœ‰debuff
  * @param $txt
  * @return mixed|string
  */
@@ -53,25 +53,27 @@ function showPureText($txt)
     $txt=str_replace('&#34;','',$txt);
     $txt=preg_replace('/[\s]+/',' ',$txt);
     $txt=preg_replace('/[\n]/','',$txt);
-    $txt=str_replace(array("¡¡","\t","\n","\r"),array('','','',''),$txt);
+    $txt=str_replace(array("ã€€","\t","\n","\r"),array('','','',''),$txt);
     return $txt;
 }
+
 /**
- * Description:¸ù¾İ¹æÔò£¬´Óhtml×Ö·û´®ÖĞ½âÎö³öÊı¾İ£¬²¢´æÈëdb
+ * Desc:æ ¹æ®è§„åˆ™ï¼Œä»htmlå­—ç¬¦ä¸²ä¸­è§£æå‡ºæ•°æ®ï¼Œå¹¶å­˜å…¥db
+ * @param $url
+ * @param $reg
  * @param $html
- * @return array
- * Created by ChenJian.
+ * by ChenJian.
  */
-function parse($url,$reg,$html){
-    //µ¥Ôª¸ñÕıÔò×¥È¡
+function parse_and_save($url,$reg,$html){
+    //å•å…ƒæ ¼æ­£åˆ™æŠ“å–
     $unit_reg = $reg['unit_reg'];
     preg_match_all($unit_reg,$html,$units);
-    //±éÀúµ¥Ôª¸ñ×Ö·û´®»ñÈ¡Ã¿Ò»¸öµ¥Ôª¸ñÖĞµÄÊı¾İ
+    //éå†å•å…ƒæ ¼å­—ç¬¦ä¸²è·å–æ¯ä¸€ä¸ªå•å…ƒæ ¼ä¸­çš„æ•°æ®
     foreach($units[0] as $unit_str){
-        //µç»°ºÅÂëÕıÔò
+        //ç”µè¯å·ç æ­£åˆ™
         $phone_reg = $reg['phone_reg'];
         preg_match($phone_reg,$unit_str,$phone);
-        //Ãû³ÆÕıÔò
+        //åç§°æ­£åˆ™
         $name_reg = $reg['name_reg'];
         preg_match($name_reg,$unit_str,$name);
         $user = array();
@@ -82,7 +84,63 @@ function parse($url,$reg,$html){
         $count = M('User')->where(array('phone'=>$user['phone']))->count();
         if(!$count){
             $res = M('User')->add($user);
-            print_r('Êı¾İ¿âÖĞµÚ--'.$res.'--ÌõÊı¾İÒÑ¾­²åÈëÍê³É</br>');
+            print_r('æ•°æ®åº“ä¸­ç¬¬--'.$res.'--æ¡æ•°æ®å·²ç»æ’å…¥å®Œæˆ</br>');
         }
     }
+}
+
+/**
+ * Desc: éå†åˆ†é¡µæ—¶è·å–æ–°çš„url
+ * @param $url
+ * @param $reg
+ * @param $p
+ * @return string
+ * by ChenJian.
+ */
+function getNewUrl($url,$reg,$p){
+    $page_key = $reg['page_key'];
+    if ($reg['is_in_path'] == 1) {
+        if ($p == 2) {
+            //ç¬¬äºŒé¡µçš„æ—¶å€™refereæ˜¯ç¬¬ä¸€é¡µ
+            $newUrl = $url.$page_key.''.$p.'/';
+        } else {
+            //å¾€åé¢çš„é¡µæ•°å°±æ˜¯ä¸Šä¸€é¡µçš„æ¥æº
+            $newUrl = $url.$page_key.''.$p.'/';
+        }
+    }
+    elseif($reg['is_in_path'] ==0){
+
+    }else{
+
+    }
+
+    return $newUrl;
+}
+
+/**
+ * Desc:éå†åˆ†é¡µæ—¶è·å–æ–°çš„referer
+ * @param $url
+ * @param $reg
+ * @param $p
+ * @return string
+ * by ChenJian.
+ */
+function getNewReferer($url,$reg,$p){
+    $page_key = $reg['page_key'];
+    if ($reg['is_in_path'] == 1) {
+        if ($p == 2) {
+            //ç¬¬äºŒé¡µçš„æ—¶å€™refereæ˜¯ç¬¬ä¸€é¡µ
+            $referer = $url;
+        } else {
+            //å¾€åé¢çš„é¡µæ•°å°±æ˜¯ä¸Šä¸€é¡µçš„æ¥æº
+            $referer = $url.$page_key.''.($p-1).'/';
+        }
+    }
+    elseif($reg['is_in_path'] ==0){
+
+    }else{
+
+    }
+
+    return $referer;
 }

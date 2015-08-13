@@ -11,20 +11,27 @@
             <include file="Public:menu"/>
         </div>
         <div class="col-xs-10">
-            <form role="form">
+            <form role="form" method="post">
                 <div class="form-group">
                     <label for="url">抓取地址</label>
-                    <input type="text" class="form-control" id="url" name ="url"
+                    <input type="text" class="form-control" id="url" name ="url" value="http://cs.ganji.com/banjia/"
                            placeholder="请输入地址">
                 </div>
                 <div class="form-group">
-                    <label for="reg">选取规则</label>
-                    <select  class="form-control" id = 'reg'>
+                    <label>选取规则</label>
+                    <select  class="form-control" name = 'reg_id'>
                         <volist name = "regs" id="vo">
-                        <option>{$vo['name']}</option>
+                        <option value="{$vo['id']}">{$vo['name']}</option>
                         </volist>
                     </select>
                 </div>
+               <!--   <div class="form-group">
+                    <label>分页词是否在?前面</label>
+                    <select  class="form-control" name = 'is_in_path'>                        
+                        <option value="1">是</option>
+                        <option value="0">否</option>
+                    </select>
+                </div> -->
                 <button type="submit" class="btn btn-primary">抓取</button>
             </form>
         </div>

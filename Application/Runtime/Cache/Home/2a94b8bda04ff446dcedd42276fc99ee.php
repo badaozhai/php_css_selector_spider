@@ -69,25 +69,32 @@
         <li class = "<?php echo (CONTROLLER_NAME.'/'.ACTION_NAME=='Reg/add'?'active':'');?>">
             <a href="<?php echo U('Reg/add');?>">添加规则</a>
         </li>
-        <li class = "<?php echo (CONTROLLER_NAME.'/'.ACTION_NAME=='Index/excel'?'active':'');?>">
-            <a href="<?php echo U('Index/excel');?>">导出到excel</a>
+        <li class = "<?php echo (CONTROLLER_NAME.'/'.ACTION_NAME=='Excel/excel'?'active':'');?>">
+            <a href="<?php echo U('Excel/excel');?>">导出到excel</a>
         </li>
     </ul>
 
         </div>
         <div class="col-xs-10">
-            <form role="form">
+            <form role="form" method="post">
                 <div class="form-group">
                     <label for="url">抓取地址</label>
-                    <input type="text" class="form-control" id="url" name ="url"
+                    <input type="text" class="form-control" id="url" name ="url" value="http://cs.ganji.com/banjia/"
                            placeholder="请输入地址">
                 </div>
                 <div class="form-group">
-                    <label for="reg">选取规则</label>
-                    <select  class="form-control" id = 'reg'>
-                        <?php if(is_array($regs)): $i = 0; $__LIST__ = $regs;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><option><?php echo ($vo['name']); ?></option><?php endforeach; endif; else: echo "" ;endif; ?>
+                    <label>选取规则</label>
+                    <select  class="form-control" name = 'reg_id'>
+                        <?php if(is_array($regs)): $i = 0; $__LIST__ = $regs;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><option value="<?php echo ($vo['id']); ?>"><?php echo ($vo['name']); ?></option><?php endforeach; endif; else: echo "" ;endif; ?>
                     </select>
                 </div>
+               <!--   <div class="form-group">
+                    <label>分页词是否在?前面</label>
+                    <select  class="form-control" name = 'is_in_path'>                        
+                        <option value="1">是</option>
+                        <option value="0">否</option>
+                    </select>
+                </div> -->
                 <button type="submit" class="btn btn-primary">抓取</button>
             </form>
         </div>
