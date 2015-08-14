@@ -69,6 +69,9 @@ function parse_and_save($url,$reg,$html){
     $unit_reg = $reg['unit_reg'];
     preg_match_all($unit_reg,$html,$units);
     //遍历单元格字符串获取每一个单元格中的数据
+    if(!$units[0]){
+        exit($url.'<br>抓取终止');
+    }
     foreach($units[0] as $unit_str){
         //电话号码正则
         $phone_reg = $reg['phone_reg'];
@@ -81,10 +84,12 @@ function parse_and_save($url,$reg,$html){
         $user['phone'] = showPureText($phone[0]);
         $user['from_url'] = $url;
         $user['create_time'] = time();
-        $count = M('User')->where(array('phone'=>$user['phone']))->count();
-        if(!$count){
-            $res = M('User')->add($user);
-            print_r('数据库中第--'.$res.'--条数据已经插入完成</br>');
+        $res = M('User')->where(array('phone'=>$user['phone'],'name'=>$user['name']))->find();
+        if(!$res){
+            $uid = M('User')->add($user);
+            print_r('数据库中第--'.$uid.'--条数据已经插入完成</br>');
+        }else{
+            print_r('id--'.$res['id'].'--条数据已经存在</br>');
         }
     }
 }
